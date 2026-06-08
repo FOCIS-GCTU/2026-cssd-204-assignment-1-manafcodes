@@ -5,7 +5,7 @@
 # Name: Abdul Manaf Ali
 # STUDENT ID: 2425400645
 # Email: 2425400645@live.gctu.edu.gh
-# Grader: Abdul Manaf
+# Grader: Mr. Augustus Buckman
 #
 # On my honor, Abdul Manaf Ali, this programming assignment is my own work
 # and I have not provided this code to any other student.
